@@ -290,11 +290,11 @@ h2::after {
 .item-call {
   width: 255px;
   background-color: #323232;
-
   font-weight: 400;
 }
 
 .item-call-link {
+  display: inline-block;
   width: 201px;
   padding-left: 14px;
   float: left;
@@ -305,9 +305,7 @@ h2::after {
   width: 54px;
   text-align: center;
   background-color: rgba(255, 255, 255, 0.44);
-
   float: left;
-  margin: auto;
   color: #ffffff;
 }
 
